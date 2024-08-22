@@ -1,0 +1,7 @@
+maxPeopleNo=5
+currentFolder=/Users/marcoma/Documents/integem/integemProjects/1715831699506
+firstStage=stage1.stage
+RunMode=3D
+HDRatio=1,2
+Multiple=1
+MacDownload=0
